@@ -1,87 +1,83 @@
 ![Kwizera Arsene — Web Developer](assets/profile-banner.svg)
 
-# Kwizera Arsene
+<div align="center">
 
-**Web Developer · Digital Product Builder · Technology Enthusiast**
+# KWIZERA ARSENE
 
-I design and build responsive web experiences, practical software products and digital platforms. I enjoy taking ideas from concept to implementation, learning through real projects and improving the details that make software useful.
+**Web Developer · Digital Product Builder**
 
-[GitHub](https://github.com/ONE-OLD) · [Portfolio](https://github.com/ONE-OLD?tab=repositories) · Kigali, Rwanda
+I build responsive websites and practical digital products — from customer-facing platforms to useful software tools.
+
+[Portfolio](https://github.com/ONE-OLD?tab=repositories) · [GitHub](https://github.com/ONE-OLD) · Kigali, Rwanda
+
+</div>
 
 ---
 
-## What I work on
+## About
 
-- **Web development:** responsive interfaces and interactive applications.
-- **Product building:** turning real-world needs into usable digital tools.
-- **Backend integration:** authentication, databases, APIs and deployment.
-- **Emerging technology:** AI-assisted features and automation.
+I enjoy turning ideas into working digital experiences. My work spans frontend development, backend integrations, authentication, databases, deployment and experimentation with AI-powered features.
+
+- Building responsive web applications and digital platforms
+- Connecting interfaces to APIs, databases and authentication services
+- Exploring AI integration, automation and real-time features
+- Learning through practical projects and continuous improvement
 
 ## Technology
 
-| Area | Tools |
-|---|---|
-| Frontend | HTML, CSS, JavaScript, React, Vite |
-| Backend & services | Firebase, Node.js, Express |
-| Data | PostgreSQL, Neon, Supabase |
-| Workflow & deployment | Git, GitHub, VS Code, Vercel, Cloudinary |
+<div align="center">
 
-## Selected projects
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### [KigaliPix](https://kigalipix.vercel.app/)
-A photography platform and digital marketplace project.
-[Source repository](https://github.com/ONE-OLD/photo)
+</div>
 
-### [KatProgrammers](https://katprogrammers.vercel.app/)
-A programming education platform with interactive learning and AI-assisted coding features.
-[Source repository](https://github.com/ONE-OLD/katprogrammers)
+## Selected work
 
-### [DMD Connect](https://dmd-connect.vercel.app/)
-A social networking and communication platform.
-[Organization / project repository](https://github.com/ONE-OLD/DMD)
+| Project | What it is | |
+|---|---|---|
+| **[KigaliPix](https://kigalipix.vercel.app/)** | Photography gallery and business platform | [Code](https://github.com/ONE-OLD/photo) |
+| **[KatProgrammers](https://katprogrammers.vercel.app/)** | Programming education and AI-assisted learning platform | [Code](https://github.com/ONE-OLD/katprogrammers) |
+| **[DMD](https://dmd-ltd.vercel.app/)** | Company website for Dream Maker Developers | [Code](https://github.com/ONE-OLD/DMD) |
+| **[Rwamagana Leaders' School](https://rls-roan.vercel.app/)** | School information and learning-resource website | [Code](https://github.com/ONE-OLD/RLS) |
+| **[StreamVault](https://movie-green-six.vercel.app/)** | Movie discovery and catalogue interface | [Code](https://github.com/ONE-OLD/movie) |
+| **[Stella Express](https://bus-app-one-delta.vercel.app/)** | Bus company website concept | [Code](https://github.com/ONE-OLD/bus-app) |
 
-### [Rwamagana Leaders' School](https://rls-roan.vercel.app)
-A school website project with public information and learning resources.
-[Source repository](https://github.com/ONE-OLD/RLS)
+## More projects
 
-### [StreamVault](https://movie-green-six.vercel.app)
-A movie catalogue interface with search and genre filtering.
-[Source repository](https://github.com/ONE-OLD/movie)
+[TIENS!](https://github.com/ONE-OLD/tiens) · [Mocha Cafe](https://github.com/ONE-OLD/coffee) · [Between Thoughts](https://github.com/ONE-OLD/openmind) · [Personal portfolio](https://github.com/ONE-OLD/my-portfolio) · [Creative experiment](https://github.com/ONE-OLD/arsene)
 
-### [Stella Express](https://bus-app-one-delta.vercel.app)
-A bus company website concept with route and schedule pages.
-[Source repository](https://github.com/ONE-OLD/bus-app)
-
----
-
-## More repositories
-
-Explore the rest of my public work:
-
-- [TIENS!](https://github.com/ONE-OLD/tiens)
-- [Mocha Cafe](https://github.com/ONE-OLD/coffee)
-- [Between Thoughts](https://github.com/ONE-OLD/openmind)
-- [Personal portfolio](https://github.com/ONE-OLD/my-portfolio)
-- [Creative web experiment](https://github.com/ONE-OLD/arsene)
-- [Interactive message experience](https://github.com/ONE-OLD/loveyou)
-- [Backend prototype](https://github.com/ONE-OLD/serverKP)
-
-Some repositories are experiments or prototypes rather than production software. Please check each project README for its current status and setup notes.
+Some repositories are prototypes, learning projects or private work. Their documentation describes their current scope and setup.
 
 ## Currently exploring
 
-- Modern frontend and application architecture
-- Secure backend and authentication patterns
-- AI integration and automation
-- Real-time communication
-- Scalable data and deployment workflows
+- Modern frontend and full-stack application architecture
+- Secure authentication and backend design
+- AI-powered features and workflow automation
+- Real-time communication and data-driven applications
 
-## GitHub activity
+## GitHub at a glance
+
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ONE-OLD&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ONE-OLD&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
 
+</div>
+
 ---
 
-**Building ideas into useful digital experiences.**
+<div align="center">
+
+**BUILD WITH PURPOSE. KEEP LEARNING. MAKE IDEAS REAL.**
+
+</div>
