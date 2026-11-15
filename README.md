@@ -44,12 +44,11 @@ I enjoy turning ideas into working digital experiences. My work spans frontend d
 
 | Project | What it is | |
 |---|---|---|
-| **[KigaliPix](https://kigalipix.vercel.app/)** | Photography gallery and business platform | [Code](https://github.com/ONE-OLD/photo) |
-| **[KatProgrammers](https://katprogrammers.vercel.app/)** | Programming education and AI-assisted learning platform | [Code](https://github.com/ONE-OLD/katprogrammers) |
-| **[DMD](https://dmd-ltd.vercel.app/)** | Company website for Dream Maker Developers | [Code](https://github.com/ONE-OLD/DMD) |
-| **[Rwamagana Leaders' School](https://rls-roan.vercel.app/)** | School information and learning-resource website | [Code](https://github.com/ONE-OLD/RLS) |
-| **[StreamVault](https://movie-green-six.vercel.app/)** | Movie discovery and catalogue interface | [Code](https://github.com/ONE-OLD/movie) |
-| **[Stella Express](https://bus-app-one-delta.vercel.app/)** | Bus company website concept | [Code](https://github.com/ONE-OLD/bus-app) |
+| **[KigaliPix](https://kigalipix.vercel.app/)** | Photography gallery and business platform | [Code not available](https://github.com/ONE-OLD/) |
+| **[KatProgrammers](https://katprogrammers.vercel.app/)** | Programming education and AI-assisted learning platform | [Code not available](https://github.com/ONE-OLD/) |
+| **[DMD](https://dreammakerdevelopers.com/)** | Company website for Dream Maker Developers | [Code not available](https://github.com/ONE-OLD/) |
+| **[Rwamagana Leaders' School](https://rls-roan.vercel.app/)** | School information and learning-resource website | [Code not available](https://github.com/ONE-OLD/) |
+| **[Stella Express](https://bus-rwanda.vercel.app/)** | Bus company website concept | [Code not available](https://github.com/ONE-OLD/) |
 
 ## More projects
 
