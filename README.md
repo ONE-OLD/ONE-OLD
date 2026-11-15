@@ -1,83 +1,87 @@
-![Kwizera Arsene - Web Developer](assets/profile-banner.svg)
-# KWIZERA ARSENE
+![Kwizera Arsene — Web Developer](assets/profile-banner.svg)
 
-### Web Developer | Software Creator | Technology Enthusiast
+# Kwizera Arsene
 
-I build modern digital experiences that solve real-world problems. My work focuses on creating responsive web applications, useful software solutions, and innovative digital products.
+**Web Developer · Digital Product Builder · Technology Enthusiast**
 
-I believe in learning by building, improving through experimentation, and turning ideas into practical technology.
+I design and build responsive web experiences, practical software products and digital platforms. I enjoy taking ideas from concept to implementation, learning through real projects and improving the details that make software useful.
 
----
-
-## ABOUT ME
-
-- 🌍 Based in Kigali, Rwanda
-- 💻 Passionate about web development and software engineering
-- 🚀 Building practical digital products and platforms
-- 🤖 Exploring AI integration and intelligent automation
-- 📚 Continuously learning and improving my skills
-
-## TECH STACK
-
-**Frontend**
-
-JavaScript · React · HTML5 · CSS3 · Vite
-
-**Backend & Database**
-
-Firebase · PostgreSQL · Neon
-
-**Tools & Platforms**
-
-Git · GitHub · VS Code · Vercel · Cloudinary
-
-## FEATURED PROJECTS
-
-### KigaliPix
-A photography platform connecting photography professionals with digital opportunities.
-
-🌐 https://kigalipix.vercel.app/
-
-### DMD Connect
-A social networking platform featuring messaging and real-time communication.
-
-🌐 https://dmd-connect.vercel.app/
-
-### KatProgrammers
-A programming education platform with interactive learning and AI-assisted coding.
-
-🌐 https://katprogrammers.vercel.app/
-
-### Breezy MT5 AutoTrader
-An algorithmic trading software project focused on market analysis, strategy engines, risk management and automated trading architecture.
-
-🚧 Currently under development.
+[GitHub](https://github.com/ONE-OLD) · [Portfolio](https://github.com/ONE-OLD?tab=repositories) · Kigali, Rwanda
 
 ---
 
-## CURRENTLY EXPLORING
+## What I work on
 
-- Advanced web application architecture
-- Artificial intelligence integration
-- Real-time communication systems
-- Software automation
-- Scalable database architecture
+- **Web development:** responsive interfaces and interactive applications.
+- **Product building:** turning real-world needs into usable digital tools.
+- **Backend integration:** authentication, databases, APIs and deployment.
+- **Emerging technology:** AI-assisted features and automation.
+
+## Technology
+
+| Area | Tools |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React, Vite |
+| Backend & services | Firebase, Node.js, Express |
+| Data | PostgreSQL, Neon, Supabase |
+| Workflow & deployment | Git, GitHub, VS Code, Vercel, Cloudinary |
+
+## Selected projects
+
+### [KigaliPix](https://kigalipix.vercel.app/)
+A photography platform and digital marketplace project.
+[Source repository](https://github.com/ONE-OLD/photo)
+
+### [KatProgrammers](https://katprogrammers.vercel.app/)
+A programming education platform with interactive learning and AI-assisted coding features.
+[Source repository](https://github.com/ONE-OLD/katprogrammers)
+
+### [DMD Connect](https://dmd-connect.vercel.app/)
+A social networking and communication platform.
+[Organization / project repository](https://github.com/ONE-OLD/DMD)
+
+### [Rwamagana Leaders' School](https://rls-roan.vercel.app)
+A school website project with public information and learning resources.
+[Source repository](https://github.com/ONE-OLD/RLS)
+
+### [StreamVault](https://movie-green-six.vercel.app)
+A movie catalogue interface with search and genre filtering.
+[Source repository](https://github.com/ONE-OLD/movie)
+
+### [Stella Express](https://bus-app-one-delta.vercel.app)
+A bus company website concept with route and schedule pages.
+[Source repository](https://github.com/ONE-OLD/bus-app)
 
 ---
 
-## GITHUB
+## More repositories
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ONE-OLD&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=A78BFA)
+Explore the rest of my public work:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ONE-OLD&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA)
+- [TIENS!](https://github.com/ONE-OLD/tiens)
+- [Mocha Cafe](https://github.com/ONE-OLD/coffee)
+- [Between Thoughts](https://github.com/ONE-OLD/openmind)
+- [Personal portfolio](https://github.com/ONE-OLD/my-portfolio)
+- [Creative web experiment](https://github.com/ONE-OLD/arsene)
+- [Interactive message experience](https://github.com/ONE-OLD/loveyou)
+- [Backend prototype](https://github.com/ONE-OLD/serverKP)
+
+Some repositories are experiments or prototypes rather than production software. Please check each project README for its current status and setup notes.
+
+## Currently exploring
+
+- Modern frontend and application architecture
+- Secure backend and authentication patterns
+- AI integration and automation
+- Real-time communication
+- Scalable data and deployment workflows
+
+## GitHub activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ONE-OLD&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ONE-OLD&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9)
 
 ---
 
-### LET'S CONNECT
-
-GitHub: https://github.com/ONE-OLD
-
----
-
-*Building ideas into reality. Always learning. Always creating.*
-
+**Building ideas into useful digital experiences.**
