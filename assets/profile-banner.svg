@@ -1,0 +1,39 @@
+
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08080D"/>
+      <stop offset="1" stop-color="#171025"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#8B5CF6" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <ellipse cx="1020" cy="150" rx="300" ry="240" fill="url(#glow)"/>
+
+  <circle cx="1000" cy="160" r="112" stroke="#A78BFA" stroke-opacity=".16"/>
+  <circle cx="1000" cy="160" r="82" stroke="#A78BFA" stroke-opacity=".2"/>
+  <circle cx="1000" cy="160" r="52" stroke="#A78BFA" stroke-opacity=".25"/>
+
+  <path d="M850 0L1200 320M950 0L1200 230M1080 0L1200 110" stroke="#A78BFA" stroke-opacity=".12"/>
+
+  <rect x="72" y="55" width="112" height="34" rx="17" fill="#2B1C43"/>
+  <text x="128" y="77" text-anchor="middle" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="15" font-weight="bold" letter-spacing="2">ONE-OLD</text>
+
+  <text x="72" y="158" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="48" font-weight="bold" letter-spacing="-1">KWIZERA ARSENE</text>
+  <text x="74" y="202" fill="url(#purple)" font-family="Arial,sans-serif" font-size="25" font-weight="bold" letter-spacing="3">WEB DEVELOPER</text>
+  <text x="74" y="246" fill="#B8B3C7" font-family="Arial,sans-serif" font-size="17">Building digital experiences through code and creativity.</text>
+
+  <path d="M74 275H360" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="370" cy="275" r="3" fill="#C4B5FD"/>
+
+  <text x="1000" y="170" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="66" font-weight="bold">O</text>
+  <text x="1000" y="197" text-anchor="middle" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="12" letter-spacing="5">DEVELOP</text>
+</svg>
