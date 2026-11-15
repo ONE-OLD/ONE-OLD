@@ -8,7 +8,7 @@
 
 I build responsive websites and practical digital products — from customer-facing platforms to useful software tools.
 
-[Portfolio](https://github.com/ONE-OLD?tab=repositories) · [GitHub](https://github.com/ONE-OLD) · Kigali, Rwanda
+[Portfolio](https://arseneportfolio.vercel.app) · [GitHub](https://github.com/ONE-OLD) · Kigali, Rwanda
 
 </div>
 
