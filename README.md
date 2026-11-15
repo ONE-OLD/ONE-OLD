@@ -1,3 +1,4 @@
+![Kwizera Arsene - Web Developer](assets/profile-banner.svg)
 # KWIZERA ARSENE
 
 ### Web Developer | Software Creator | Technology Enthusiast
