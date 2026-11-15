@@ -35,5 +35,5 @@
   <circle cx="370" cy="275" r="3" fill="#C4B5FD"/>
 
   <text x="1000" y="170" text-anchor="middle" fill="#FFFFFF" font-family="Arial,sans-serif" font-size="66" font-weight="bold">9</text>
-  <text x="1000" y="197" text-anchor="middle" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="12" letter-spacing="5">DEVELOP</text>
+  <text x="1000" y="197" text-anchor="middle" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="12" letter-spacing="5">DEVELOPED</text>
 </svg>
